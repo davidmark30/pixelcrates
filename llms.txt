@@ -1,0 +1,20 @@
+# PixelCrates
+
+> A website page comparing Sportzfy TV and Cricfy TV for Android users interested in live sports streaming.
+
+## Main page
+
+- [Sportzfy TV vs Cricfy TV: Which App Is Better for Live Sports?](https://pixelcrates.vercel.app/): Comparison of sports coverage, streaming quality, user interface, Android compatibility, installation, data usage, security, and frequently asked questions.
+
+## Page details
+
+- Canonical URL: https://pixelcrates.vercel.app/
+- Language: English
+- Primary topics: Sportzfy TV, Cricfy TV, Android sports applications, live sports streaming
+- Content format: Article and application comparison
+
+## Notes
+
+- App features, stream availability, compatibility, and distribution terms may change.
+- The page advises readers to review APK sources, permissions, and applicable streaming rights.
+- Prefer the canonical page URL when referencing this content.
